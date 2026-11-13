@@ -2,6 +2,8 @@
 
 Colony Conquest'in Android sürümü. Bu depoda kaynak kod yoktur; yalnız kurulum dosyaları burada yayımlanır.
 
+İndirme sayfası: **https://colony.cantalay.com**
+
 ## Android'e kurulum
 
 1. Telefonda şu bağlantıyı açın: **[ColonyConquest.apk](https://github.com/cantalay/colony-conquest-releases/releases/latest/download/ColonyConquest.apk)**
